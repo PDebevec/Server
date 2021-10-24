@@ -6,7 +6,7 @@
 
 ## ------------------- **Web Server** --------------------
 Https web server with automatic self signed certificat script with openssl.
------ TODO -----
+### ----- TODO -----
 1. *log insystem*
 2. *security*
 3. *Twitch bot control*
@@ -14,10 +14,10 @@ Https web server with automatic self signed certificat script with openssl.
 
 ## ------------------- **Twitch Bot** --------------------
 Twitch bot hase administrator privilages over accout.
------ TODO -----
+### ----- TODO -----
 > *everything*
 
 ## ------------------- **Discord Bot** --------------------
 Discord bot hase administrator privilages over server.
------ TODO -----
+### ----- TODO -----
 > *IDK*
