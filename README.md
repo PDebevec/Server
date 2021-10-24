@@ -22,3 +22,6 @@ Discord bot hase administrator privilages over server.
 ### ----- TODO -----
 1. *IDK*
 
+## ------------------- **Requirements** --------------------
+1. nodejs installed globaly
+2. openssl installed globaly
