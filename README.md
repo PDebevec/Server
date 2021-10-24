@@ -15,9 +15,10 @@ Https web server with automatic self signed certificat script with openssl.
 ## ------------------- **Twitch Bot** --------------------
 Twitch bot hase administrator privilages over accout.
 ### ----- TODO -----
-> *everything*
+1. *everything*
 
 ## ------------------- **Discord Bot** --------------------
 Discord bot hase administrator privilages over server.
 ### ----- TODO -----
-> *IDK*
+1. *IDK*
+
