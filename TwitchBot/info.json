@@ -1,0 +1,12 @@
+{
+    "options": { "debug": false },
+    "connection": {
+        "secure": true,
+        "reconnect": true
+    },
+    "identity": {
+        "username": "ducklordxyz",
+        "password": "oauth:mp7iq8ponohcor0gfm5pobli1iolgq"
+    },
+    "channels": ["DuckLordxyz"]
+}
