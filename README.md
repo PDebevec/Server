@@ -7,7 +7,7 @@
 ## ------------------- **Web Server** --------------------
 Https web server with automatic self signed certificat script with openssl.
 ### ----- TODO -----
-1. *log insystem*
+1. *login system*
 2. *security*
 3. *Twitch bot control*
 4. *Discord bot control*
